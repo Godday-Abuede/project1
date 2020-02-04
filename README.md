@@ -7,7 +7,7 @@ Does the consumption of alcohol, i.e spirit and beer, affect obesity?
 # Null hypothesis: 
 If alcohol (spirit and beer) have a direct relationship with obesity, then consuming 2 units of spirit and 3 units of beer will increase obesity level.
 
-#Alternative hypothesis: 
+# Alternative hypothesis: 
 If alcohol (spirit and beer) negatively correlates with obesity, then consuming 2 units of spirit and 3 units of beer will decrease obesity level.
 
 
